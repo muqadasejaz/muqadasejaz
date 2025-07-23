@@ -43,7 +43,7 @@ I'm a dedicated AI/ML Engineer with a passion for building intelligent systems t
 - Transfer Learning & Fine-Tuning Pretrained Models  
 - LLM Prompt Engineering & Deployment  
 
-**Dev & Automation Tools**  
+**Dev Tools**  
 -  `Jupyter Notebook`, `Google Colab`, `Streamlit`, `Flask`  
 - `Git`, `GitHub`, `VS Code`, `Kaggle`
 
@@ -67,6 +67,11 @@ I'm a dedicated AI/ML Engineer with a passion for building intelligent systems t
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)  
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
 ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=data:image/svg+xml;base64,...&logoColor=white)  
+
+#### 👁️‍🗨️ Computer Vision & Face Recognition  
+![YOLO](https://img.shields.io/badge/-YOLO-FF1493?style=flat)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
+![CNN](https://img.shields.io/badge/-CNN-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
 
 
 ### 🛠️ Dev Tools & Platforms  
