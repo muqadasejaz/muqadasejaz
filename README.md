@@ -1,6 +1,30 @@
+
+  ![images](https://github.com/user-attachments/assets/e79dd3a2-be5f-4373-aa0f-f88a7cc8e8c6) 
+  ![68747470733a2f2f692e70696e696d672e636f6d2f373336782f37382f64332f65622f37386433656266313833633132636532343233646136653963343163356136352e6a7067](https://github.com/user-attachments/assets/4a3c8e8f-357f-4071-83a1-e42c1bce9a28)
+
+
 <h1 align="center">Hi 👋, I'm Muqadas Ejaz</h1>
 <h3 align="center">AI/ML Engineer</h3>
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+## 🚀 About Me  
+I'm a dedicated AI/ML Engineer with a passion for building intelligent systems that solve real-world problems. My focus lies in machine learning, deep learning, and natural language processing, and I love exploring how AI can be used to create smarter applications. I’m always looking to grow, experiment with new models, and contribute to impactful AI-driven solutions.
+
+---
+
+## 🔥 Highlights  
+
+- 🧠 **Core Expertise**: Machine Learning · Deep Learning · NLP · Computer Vision  
+- 🔭 **Currently Working On**: Fine-tuning of Text-to-Speech(TTS) Model- Urdu⚙️  
+- 👯 **Open to Collaborate**: Research Projects & Real-Time AI Applications 🤖  
+- 🤝 **Seeking Support With**: Deployment of Scalable ML Models & Model Optimization 🚀  
+- 💬 **Ask Me About**: AI/ML Workflows, Model Fine-Tuning, Prompt Engineering, or Automation with n8n 📊  
+- 📫 **Reach Me At**: muqadasejaz3@gmail.com 
+- ⚡ **Fun Fact**: I see models like puzzles—every tweak unlocks new potential! 🧩  
+
+---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muqadasejaz&label=Profile%20views&color=0e75b6&style=flat" alt="muqadasejaz" /> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -18,13 +42,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muqadasejaz&" alt="muqadasejaz" /></p>
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+act: ...
 -->
