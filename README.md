@@ -22,7 +22,7 @@ I'm a passionate **AI/ML Engineer** focused on creating impactful, intelligent s
 
 - 🧠 **Machine Learning & Deep Learning**
 - 🗣️ **Natural Language Processing**
-- 👁️ **Computer Vision**
+- 👁️ **Computer Vision & Generative AI**
 - 🎯 **Model Optimization & Fine-Tuning**
 
 Currently fine-tuning a **Text-to-Speech (TTS)** model in **Urdu**, and open to collaborations on **AI research** and **real-world projects**.
