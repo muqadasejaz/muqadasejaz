@@ -1,8 +1,4 @@
 
-<p align="center">
- <img src="https://github.com/muqadasejaz/muqadasejaz/blob/main/banner%20(2).png" alt="banner" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Muqadas Ejaz</h1>
 <h3 align="center">💻 AI/ML Engineer | 🤖 Innovating with Intelligence</h3>
 
