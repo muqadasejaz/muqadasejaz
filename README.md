@@ -21,9 +21,9 @@ I'm a passionate **AI/ML Engineer** focused on creating impactful, intelligent s
 - 👁️ **Computer Vision & Generative AI**
 - 🎯 **Model Optimization & Fine-Tuning**
 
-Currently fine-tuning a **Text-to-Speech (TTS)** model in **Urdu**, and open to collaborations on **AI research** and **real-world projects**.
+Currently working on **Agentic AI** Workflows in **n8n**, and open to collaborations on **AI research** and **real-world projects**
 
----
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🔥 Highlights
 
@@ -53,6 +53,15 @@ Currently fine-tuning a **Text-to-Speech (TTS)** model in **Urdu**, and open to 
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 🤖 Automation & Agentic AI Workflows
+
+![n8n](https://img.shields.io/badge/-n8n-FF3C00?style=for-the-badge)
+![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=for-the-badge)
+![Make.com](https://img.shields.io/badge/-Make.com-FF5A5F?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-00BFFF?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/-LangChain-black?style=for-the-badge)
+![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-412991?style=for-the-badge)
 
 ### 💬 NLP & CV Tools
 
