@@ -28,7 +28,7 @@ Currently working on **Agentic AI** Workflows in **n8n**, and open to collaborat
 ## 🔥 Highlights
 
 - 🧠 **Expertise**: ML · DL · NLP · CV 
-- ⚙️ **Project**: Fine-tuning TTS (Urdu) 
+- ⚙️ **Project**: AI Agents 
 - 🤝 **Collab**: Real-time AI Apps & Research 
 - 🚀 **Help Needed**: Scalable Deployment, Optimization 
 - 📬 **Reach Me**: muqadasejaz3@gmail.com 
