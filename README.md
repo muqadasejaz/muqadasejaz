@@ -21,7 +21,7 @@ I'm a passionate **AI/ML Engineer** focused on creating impactful, intelligent s
 - 👁️ **Computer Vision & Generative AI**
 - 🎯 **Model Optimization & Fine-Tuning**
 
-Currently working on **Agentic AI** Workflows in **n8n**, and open to collaborations on **AI research** and **real-world projects**
+Currently working on **AI Agents** Workflows in **n8n**, and open to collaborations on **AI research** and **real-world projects**
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
