@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Muqadas Ejaz</h1>
-<h3 align="center">💻 AI/ML Engineer | 🤖 Innovating with Intelligence</h3>
+<h3 align="center">💻 AI/ML Engineer | 🤖 Kaggle Grand Master</h3>
 
 <p align="center">
  <a href="mailto:muqadasejaz3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
