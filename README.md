@@ -86,19 +86,11 @@ Currently working on **AI Agents** Workflows in **n8n**, and open to collaborati
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=muqadasejaz&show_icons=true&theme=react&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muqadasejaz&layout=compact&theme=react" alt="Top Languages" />
-</p>
-
-<p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=muqadasejaz&theme=react" alt="GitHub Streak" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=muqadasejaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=muqadasejaz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=muqadasejaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
