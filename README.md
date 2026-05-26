@@ -31,7 +31,7 @@ Currently working on **AI Agents** Workflows in **n8n**, and open to collaborati
 
 ## 🔥 Highlights
 
-- 🧠 **Expertise**: ML · DL · NLP · CV 
+- 🧠 **Expertise**: ML · DL · NLP · CV · GenAI · AI Agents
 - ⚙️ **Project**: AI Agents 
 - 🤝 **Collab**: Real-time AI Apps & Research 
 - 🚀 **Help Needed**: Scalable Deployment, Optimization 
