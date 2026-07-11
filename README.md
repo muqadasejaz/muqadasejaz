@@ -41,11 +41,11 @@ Building practical AI products that solve real-world problems.
 
 ---
 
-# 👩‍💻 About Me
+# About Me
 
-- 🤖 AI Engineer
-- 🧠 Building ML, Deep Learning and Generative AI applications
-- 💬 Ask me about
+- AI Engineer
+- Building ML, Deep Learning and Generative AI applications
+- Ask me about
   - Machine Learning
   - Computer Vision
   - NLP
@@ -56,12 +56,12 @@ Building practical AI products that solve real-world problems.
   - YOLO
   - LLMs
   - AI Automation
-- 🌱 Currently exploring Agentic AI, AI Infrastructure and scalable AI deployment
-- ⚡ Passionate about building AI that people actually use
+- Currently exploring Agentic AI, AI Infrastructure and scalable AI deployment
+- Passionate about building AI that people actually use
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -97,29 +97,29 @@ Building practical AI products that solve real-world problems.
 
 ---
 
-# 🌟 Project Spotlight
+#  Project Spotlight
 
 | Project | Description | Links |
 |----------|-------------|-------|
-| 🌿 Plant Detection using YOLOv8 | Detect plant diseases and objects using YOLOv8 | **[Demo](https://plant-dectection.streamlit.app/)** • **[Code](https://github.com/muqadasejaz/Plant-Detection-using-YOLOv8)** |
-| 📄 PDF QA RAG System | Chat with PDFs using Retrieval-Augmented Generation | **[Code](https://github.com/muqadasejaz/PDF-QA-RAG-System)** |
-| 🚶 Human Detector | Real-time human detection using Computer Vision | **[Demo](https://person-detection.streamlit.app/)** • **[Code](https://github.com/muqadasejaz/Human-Detector)** |
-| 🤖 AI Generated Content Detection | Detect AI-generated Text, Images, Audio and Video | **[Demo](https://aivshumandetectionmodels.streamlit.app/)** |
-| 📰 Fake News Detection | NLP-based fake news classifier | **[Demo](https://fake-newsdetectionsystem.streamlit.app/)** • **[Code](https://github.com/muqadasejaz/Fake-News-Detection)** |
-| 🎭 DeepFake Video Detection | Detect manipulated deepfake videos using Deep Learning | **[Demo](https://deepfake-video-detection-system.streamlit.app/)** |
-| 📚 DocuMind RAG Chatbot | LangGraph-powered intelligent document assistant | **[Demo](https://rag-chatbot-langgraph.streamlit.app/)** • **[Code](https://github.com/muqadasejaz/DocuMind-RAG-Chatbot)** |
-| 😊 Micro Facial Expression Recognition | CNN model for recognizing micro facial expressions | **[Code](https://github.com/muqadasejaz/Micro-Facial-Expression-Recognition-using-CNN)** |
+| Plant Detection using YOLOv8 | Detect plant diseases and objects using YOLOv8 | **[Demo](https://plant-dectection.streamlit.app/)** • **[Code](https://github.com/muqadasejaz/Plant-Detection-using-YOLOv8)** |
+| PDF QA RAG System | Chat with PDFs using Retrieval-Augmented Generation | **[Code](https://github.com/muqadasejaz/PDF-QA-RAG-System)** |
+| Human Detector | Real-time human detection using Computer Vision | **[Demo](https://person-detection.streamlit.app/)** • **[Code](https://github.com/muqadasejaz/Human-Detector)** |
+| AI Generated Content Detection | Detect AI-generated Text, Images, Audio and Video | **[Demo](https://aivshumandetectionmodels.streamlit.app/)** |
+| Fake News Detection | NLP-based fake news classifier | **[Demo](https://fake-newsdetectionsystem.streamlit.app/)** • **[Code](https://github.com/muqadasejaz/Fake-News-Detection)** |
+| DeepFake Video Detection | Detect manipulated deepfake videos using Deep Learning | **[Demo](https://deepfake-video-detection-system.streamlit.app/)** |
+| DocuMind RAG Chatbot | LangGraph-powered intelligent document assistant | **[Demo](https://rag-chatbot-langgraph.streamlit.app/)** • **[Code](https://github.com/muqadasejaz/DocuMind-RAG-Chatbot)** |
+| Micro Facial Expression Recognition | CNN model for recognizing micro facial expressions | **[Code](https://github.com/muqadasejaz/Micro-Facial-Expression-Recognition-using-CNN)** |
 
 ---
 
-# 📊 Numbers that Matter
+# Numbers that Matter
 
 | Achievement | Value |
 |-------------|-------|
-| 📦 Repositories | 20+ |
-| ⭐ AI Projects | 15+ |
-| 👥 Followers | 24 |
-| 💻 Open Source | Active Contributor |
+| Repositories | 50+ |
+| AI Projects | 40+ |
+| Followers | 24 |
+| Open Source | Active Contributor |
 
 ---
 
@@ -131,7 +131,7 @@ Building practical AI products that solve real-world problems.
 ---
 
 
-# 📅 Contribution Graph
+# Contribution Graph
 
 <p align="center">
 
@@ -141,20 +141,20 @@ Building practical AI products that solve real-world problems.
 
 ---
 
-# 🎯 Current Focus
+# Current Focus
 
-- 🤖 Agentic AI
-- 🧠 Large Language Models
-- 📚 RAG Systems
-- 👁️ Computer Vision
-- 🎭 Deepfake Detection
-- 🚀 AI Deployment
-- ☁️ Cloud AI Infrastructure
-- ⚡ AI Automation
+- Agentic AI
+- Large Language Models
+- RAG Systems
+- Computer Vision
+- Deepfake Detection
+- AI Deployment
+- Cloud AI Infrastructure
+- AI Automation
 
 ---
 
-# 🤝 Let's Connect
+# Let's Connect
 
 <p align="center">
 
@@ -181,7 +181,7 @@ Building practical AI products that solve real-world problems.
 
 ---
 
-## ⭐ Thanks for Visiting!
+## Thanks for Visiting!
 
 If you find my work useful, please ⭐ star my repositories. 
-Let’s build something impactful together! 🚀
+Let’s build something impactful together! 
