@@ -1,10 +1,22 @@
-
 <h1 align="center">Hi 👋, I'm Muqadas Ejaz</h1>
-<h3 align="center">💻 AI/ML Engineer | 🤖 Kaggle Grand Master</h3>
+
+<h3 align="center">
+AI Engineer | Kaggle GrandMaster
+</h3>
+
+<h4 align="center">
+Machine Learning | Deep Learning | Computer Vision | NLP | Generative AI | AI Automation
+</h4>
 
 <p align="center">
- <a href="mailto:muqadasejaz3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
- <a href="https://linkedin.com/in/muqadasejaz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+Building practical AI products that solve real-world problems.
+</p>
+
+<p align="center">
+ <a href="mailto:muqadasejaz3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+ </a>
+ <a href="https://linkedin.com/in/muqadasejaz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a>
  <a href="https://kaggle.com/muqaddasejaz" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
  </a>
  <a href="https://rankistan.dev">
@@ -12,80 +24,104 @@
 </a>
 </p>
 
----
 
-## 🚀 About Me
+<p align="center">
+<a href="https://github.com/muqadasejaz">
+<img src="https://komarev.com/ghpvc/?username=muqadasejaz&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</a>
 
-> _"I see models like puzzles—every tweak unlocks new potential!"_
+<a href="https://github.com/muqadasejaz?tab=followers">
+<img src="https://img.shields.io/github/followers/muqadasejaz?style=for-the-badge"/>
+</a>
 
-I'm a passionate **AI/ML Engineer** focused on creating impactful, intelligent solutions. I specialize in:
+<img src="https://img.shields.io/badge/AI%20Engineer-Kaggle GrandMaster-blue?style=for-the-badge"/>
 
-- 🧠 **Machine Learning & Deep Learning**
-- 🗣️ **Natural Language Processing**
-- 👁️ **Computer Vision & Generative AI**
-- 🎯 **Model Optimization & Fine-Tuning**
-
-Currently working on **AI Agents** Workflows in **n8n**, and open to collaborations on **AI research** and **real-world projects**
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## 🔥 Highlights
-
-- 🧠 **Expertise**: ML · DL · NLP · CV · GenAI · AI Agents
-- ⚙️ **Project**: AI Agents 
-- 🤝 **Collab**: Real-time AI Apps & Research 
-- 🚀 **Help Needed**: Scalable Deployment, Optimization 
-- 📬 **Reach Me**: muqadasejaz3@gmail.com 
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🧠 Skills & Technologies
+# 👩‍💻 About Me
 
-### 🐍 Languages & Libraries
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3C5280?style=for-the-badge)
-
-### 🧠 AI & ML
-
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### 🤖 Automation & Agentic AI Workflows
-
-![n8n](https://img.shields.io/badge/-n8n-FF3C00?style=for-the-badge)
-![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=for-the-badge)
-![Make.com](https://img.shields.io/badge/-Make.com-FF5A5F?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-00BFFF?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/-LangChain-black?style=for-the-badge)
-![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-412991?style=for-the-badge)
-
-### 💬 NLP & CV Tools
-
-![NLTK](https://img.shields.io/badge/-NLTK-009688?style=for-the-badge)
-![YOLO](https://img.shields.io/badge/-YOLO-FF1493?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/-LangChain-black?style=for-the-badge)
-
-### 🧰 Tools & Platforms
-
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Tkinter](https://img.shields.io/badge/-Tkinter-FFCC00?style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+- 🤖 AI Engineer
+- 🧠 Building ML, Deep Learning and Generative AI applications
+- 💬 Ask me about
+  - Machine Learning
+  - Computer Vision
+  - NLP
+  - RAG
+  - LangChain
+  - LangGraph
+  - FastAPI
+  - YOLO
+  - LLMs
+  - AI Automation
+- 🌱 Currently exploring Agentic AI, AI Infrastructure and scalable AI deployment
+- ⚡ Passionate about building AI that people actually use
 
 ---
 
+# 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql"/>
+</p>
+
+### AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn,huggingface,langchain,langgraph"/>
+</p>
+
+
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,docker"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+### Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,kaggle"/>
+</p>
+
+---
+
+# 🌟 Project Spotlight
+
+| Project | Description | Links |
+|----------|-------------|-------|
+| 🌿 Plant Detection using YOLOv8 | Detect plant diseases and objects using YOLOv8 | **[Demo](https://plant-dectection.streamlit.app/)** • **[Code](https://github.com/muqadasejaz/Plant-Detection-using-YOLOv8)** |
+| 📄 PDF QA RAG System | Chat with PDFs using Retrieval-Augmented Generation | **[Code](https://github.com/muqadasejaz/PDF-QA-RAG-System)** |
+| 🚶 Human Detector | Real-time human detection using Computer Vision | **[Demo](https://person-detection.streamlit.app/)** • **[Code](https://github.com/muqadasejaz/Human-Detector)** |
+| 🤖 AI Generated Content Detection | Detect AI-generated Text, Images, Audio and Video | **[Demo](https://aivshumandetectionmodels.streamlit.app/)** |
+| 📰 Fake News Detection | NLP-based fake news classifier | **[Demo](https://fake-newsdetectionsystem.streamlit.app/)** • **[Code](https://github.com/muqadasejaz/Fake-News-Detection)** |
+| 🎭 DeepFake Video Detection | Detect manipulated deepfake videos using Deep Learning | **[Demo](https://deepfake-video-detection-system.streamlit.app/)** |
+| 📚 DocuMind RAG Chatbot | LangGraph-powered intelligent document assistant | **[Demo](https://rag-chatbot-langgraph.streamlit.app/)** • **[Code](https://github.com/muqadasejaz/DocuMind-RAG-Chatbot)** |
+| 😊 Micro Facial Expression Recognition | CNN model for recognizing micro facial expressions | **[Code](https://github.com/muqadasejaz/Micro-Facial-Expression-Recognition-using-CNN)** |
+
+---
+
+# 📊 Numbers that Matter
+
+| Achievement | Value |
+|-------------|-------|
+| 📦 Repositories | 20+ |
+| ⭐ AI Projects | 15+ |
+| 👥 Followers | 24 |
+| 💻 Open Source | Active Contributor |
+
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=muqadasejaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -94,15 +130,54 @@ Currently working on **AI Agents** Workflows in **n8n**, and open to collaborati
 
 ---
 
-## 📫 Let's Connect!
 
-📧 **Email**: [muqadasejaz3@gmail.com](mailto:muqadasejaz3@gmail.com) 
-🔗 **LinkedIn**: [linkedin.com/in/muqadasejaz](https://linkedin.com/in/muqadasejaz) 
-📊 **Kaggle**: [kaggle.com/muqaddasejaz](https://kaggle.com/muqaddasejaz)
+# 📅 Contribution Graph
 
-<p align="left">
- <img src="https://komarev.com/ghpvc/?username=muqadasejaz&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muqadasejaz&theme=tokyo-night"/>
+
 </p>
+
+---
+
+# 🎯 Current Focus
+
+- 🤖 Agentic AI
+- 🧠 Large Language Models
+- 📚 RAG Systems
+- 👁️ Computer Vision
+- 🎭 Deepfake Detection
+- 🚀 AI Deployment
+- ☁️ Cloud AI Infrastructure
+- ⚡ AI Automation
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/muqadasejaz">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+
+---
+
+
+# Work with ME!
+
+- Email me at @muqadasejaz3@gmail.com
+- Connect on https://www.linkedin.com/in/muqadasejaz
 
 ---
 
