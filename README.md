@@ -128,7 +128,7 @@ Building practical AI products that solve real-world problems.
 |-------------|-------|
 | Repositories | 50+ |
 | AI Projects | 40+ |
-| Followers | 24 |
+| Followers | 23 |
 | Open Source | Active Contributor |
 
 ---
